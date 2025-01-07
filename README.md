@@ -1,4 +1,13 @@
-## Hi, i'm Yael Avila 👋
+## Hi, I'm Yael Avila 👋
+
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=avilaYael&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg?" alt = "Snake Game"/>
+</p>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
 ## My Skills Include
@@ -20,11 +29,11 @@
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
@@ -33,6 +42,25 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </span>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/avilaYael">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avilaYael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+## Connect with me
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yael_avilac?igsh=cDVnczNzbzlhMXZx)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:avilayael29@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/CUepF9Vu)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=flat&logo=twitter&logoColor=white)](https://x.com/Yael_AvilaC?t=69f_mPK_ywSijAV4PqD1VA&s=09)
+[![Github](https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=flat&logo=github&logoColor=white)](https://github.com/avilaYael)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004621964736&mibextid=ZbWKwL)
+
+
+
 <!--
 **avilaYael/avilaYael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

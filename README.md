@@ -43,13 +43,6 @@
 
 </span>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/avilaYael">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avilaYael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
 ## Connect with me
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yael_avilac?igsh=cDVnczNzbzlhMXZx)

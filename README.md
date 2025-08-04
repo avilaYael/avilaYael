@@ -12,6 +12,8 @@
 
 ## My Skills Include
 
+<!-- HOLA ESTA ES UN PULL REQUEST DE LUISLEALDEV -->
+
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
